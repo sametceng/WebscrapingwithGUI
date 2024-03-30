@@ -1,4 +1,5 @@
 #First Automation Project With GUİ
+#Version1
 import sys
 
 import customtkinter
