@@ -1,5 +1,5 @@
 #First Automation Project With GUİ
-#masterversd1
+#masterversd112
 import sys
 
 import customtkinter
